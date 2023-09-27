@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPWg2G2stZ5GINAJiT-GA5Nhp_0JnLuhrHKw&usqp=CAU)" width="100"/>
 </div>
 <!--
 **ravilon/ravilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
