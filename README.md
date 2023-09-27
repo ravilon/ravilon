@@ -1,4 +1,4 @@
-### Hi there 👋
+### Are you ready to a deep into a unexperient dev profile?
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/rMnd7B3BMASboHgVep/giphy.gif" />
 </div>
