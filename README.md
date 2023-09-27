@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravilon&label=Profile%20views&color=0e75b6&style=flat" alt="ravilon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravilon" alt="ravilon" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@raviilon" target="blank"><img src="https://img.shields.io/twitter/follow/@raviilon?logo=twitter&style=for-the-badge" alt="@raviilon" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
