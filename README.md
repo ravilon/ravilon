@@ -26,10 +26,6 @@
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravilon&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravilon&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
 </p>
 
