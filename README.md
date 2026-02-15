@@ -1,32 +1,62 @@
-# Hi there! 👋 I'm Rávilon Aguiar
+# 👋 Hi, I'm Rávilon Aguiar
 
-## A smart and lazy Developer, also a Chess enthusiast.
+## Senior Solution Engineer | LIMS Specialist | System Integrator
 
-![Profile views](https://komarev.com/ghpvc/?username=ravilon&label=Profile%20views&color=0e75b6&style=flat)
+I design and implement scalable laboratory and digital health systems.
+Strong background in LabVantage LIMS, system integrations, data migration and regulated environments (GxP).
+
+Currently working with:
+- 🔬 Laboratory Systems (LabVantage, SDMS, ELN, LES)
+- 🔄 System Integration (XML Message Processor, APIs, SE Suite)
+- 🗄️ Data Migration & Legacy Modernization
+
+---
+
+## ♟ About Me
+
+- Senior Solution Engineer 
+- Tech Lead mindset  
+- Chess enthusiast (strategy is not just a hobby)  
+- Builder of systems that reduce manual effort and scale operations  
+
+I believe in automation, clean architecture and ownership.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Core
+- Java
+- Groovy
+- JavaScript / Node.js
+- SQL Server
+- PostgreSQL
+
+### Lab & Enterprise
+- LabVantage LIMS
+- JasperReports
+- XML Message Processor
+- SDMS / ELN / LES
+- Docker & WSL environments
+
+---
+
+## 🌍 Connect with me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ravilon.com.br-black?style=for-the-badge&logo=google-chrome)](https://ravilon.com.br)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rávilon%20Aguiar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravilon-aguiar/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/raviilon?logo=twitter&style=for-the-badge)](https://twitter.com/raviilon)
 
-### Languages and Tools:
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-</p>
-
-### GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravilon&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravilon&theme=tokyonight" 
+  />
 </p>
 
 <p align="center">
